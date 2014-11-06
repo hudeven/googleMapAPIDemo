@@ -1,0 +1,55 @@
+body {
+    background-image: url("bk.jpg");
+}
+
+.cover_title {
+    position: relative;
+    font-family: "Verdana", "Arial Black", sans-serif;
+    color: white;
+    font-size: 80px;
+    text-align: center;
+    top: 150px;
+}
+.cover_subtitle {
+    position: relative;
+    font-family: "Verdana", "Arial Black", sans-serif;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    top: 200px;
+}
+.page_title {
+    font-family: "Verdana", "Arial Black", sans-serif;
+    font-size: 60px;
+    text-align: center;
+    color: white;
+}
+.page_sub {
+    font-family: "Verdana", "Arial Black", sans-serif;
+    font-size: 40px;
+    color: white;
+    margin-left: 100px;
+}
+
+.page_list {
+    font-family: "Verdana", "Arial Black", sans-serif;
+    font-size: 40px;
+    line-height: 200%;
+}
+.page_sub_list {
+    font-family: "Verdana", "Arial Black", sans-serif;
+    font-size: 30px;
+    line-height: 150%;
+}
+
+.api_key {
+    font-family: "Verdana", "Arial Black", sans-serif;
+    font-size: 25px;
+    line-height: 120%;
+}
+.page_url {
+    font-family: "Verdana", "Arial Black", sans-serif;
+    font-size: 25px;
+    line-height: 0;
+
+}
