@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GeocodeResponse>
+ <status>OK</status>
+ <result>
+  <type>university</type>
+  <type>establishment</type>
+  <formatted_address>University Of Michigan - Dearborn, 4901 Evergreen Road, Dearborn, MI 48128, USA</formatted_address>
+  <address_component>
+   <long_name>University Of Michigan - Dearborn</long_name>
+   <short_name>University Of Michigan - Dearborn</short_name>
+   <type>establishment</type>
+  </address_component>
+  <address_component>
+   <long_name>4901</long_name>
+   <short_name>4901</short_name>
+   <type>street_number</type>
+  </address_component>
+  <address_component>
+   <long_name>Evergreen Road</long_name>
+   <short_name>Evergreen Rd</short_name>
+   <type>route</type>
+  </address_component>
+  <address_component>
+   <long_name>Dearborn</long_name>
+   <short_name>Dearborn</short_name>
+   <type>locality</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>Wayne County</long_name>
+   <short_name>Wayne County</short_name>
+   <type>administrative_area_level_2</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>Michigan</long_name>
+   <short_name>MI</short_name>
+   <type>administrative_area_level_1</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>United States</long_name>
+   <short_name>US</short_name>
+   <type>country</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>48128</long_name>
+   <short_name>48128</short_name>
+   <type>postal_code</type>
+  </address_component>
+  <geometry>
+   <location>
+    <lat>42.3184090</lat>
+    <lng>-83.2332020</lng>
+   </location>
+   <location_type>APPROXIMATE</location_type>
+   <viewport>
+    <southwest>
+     <lat>42.3115748</lat>
+     <lng>-83.2384844</lng>
+    </southwest>
+    <northeast>
+     <lat>42.3256162</lat>
+     <lng>-83.2223382</lng>
+    </northeast>
+   </viewport>
+   <bounds>
+    <southwest>
+     <lat>42.3115748</lat>
+     <lng>-83.2384844</lng>
+    </southwest>
+    <northeast>
+     <lat>42.3256162</lat>
+     <lng>-83.2223382</lng>
+    </northeast>
+   </bounds>
+  </geometry>
+ </result>
+</GeocodeResponse>
